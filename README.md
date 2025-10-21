@@ -17,3 +17,17 @@
 - **Expo ImagePicker** (seleção de imagens e vídeos)
 - **Expo AV** (áudio e vídeo)
 - **JavaScript / ES6**
+
+---
+
+##  Como rodar o projeto
+
+Clonar o repositório
+git clone https://github.com/anoca1/diario-pessoal.git
+cd diario-pessoal
+
+Instalar dependências
+npm install
+
+Iniciar o app
+npx expo start
